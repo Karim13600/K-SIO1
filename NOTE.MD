@@ -23,3 +23,5 @@ JS à tester
 console.log("hello world")
 var a = "abc"
 ```
+
+exemples de code 
